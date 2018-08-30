@@ -41,7 +41,7 @@ nav {
 }
 #menu-icon {
 	background: url(../image/menu-icon.png) no-repeat center;
-	display: hidden;
+	overflow: hidden;
 	width: 32px;
   height: 32px;
   background-color: cadetblue;
